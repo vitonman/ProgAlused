@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\bin\Debug\net8.0\PaarPaaritu.exe
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\bin\Debug\net8.0\PaarPaaritu.deps.json
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\bin\Debug\net8.0\PaarPaaritu.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\bin\Debug\net8.0\PaarPaaritu.dll
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\bin\Debug\net8.0\PaarPaaritu.pdb
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.dll
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\refint\PaarPaaritu.dll
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.pdb
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\PaarPaaritu.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\PaarPaaritu\PaarPaaritu\obj\Debug\net8.0\ref\PaarPaaritu.dll
