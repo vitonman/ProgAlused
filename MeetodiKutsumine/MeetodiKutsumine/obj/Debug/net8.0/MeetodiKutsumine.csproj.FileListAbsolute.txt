@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\bin\Debug\net8.0\MeetodiKutsumine.exe
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\bin\Debug\net8.0\MeetodiKutsumine.deps.json
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\bin\Debug\net8.0\MeetodiKutsumine.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\bin\Debug\net8.0\MeetodiKutsumine.dll
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\bin\Debug\net8.0\MeetodiKutsumine.pdb
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.dll
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\refint\MeetodiKutsumine.dll
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.pdb
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\MeetodiKutsumine.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\MeetodiKutsumine\MeetodiKutsumine\obj\Debug\net8.0\ref\MeetodiKutsumine.dll
