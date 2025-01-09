@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Repos\\ProgAlused\\MethodCall2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C28A2E3-DA38-4E5D-B639-4A35A642019D}|MethodCall2\\MethodCall2.csproj|c:\\users\\dell\\repos\\progalused\\methodcall2\\methodcall2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C28A2E3-DA38-4E5D-B639-4A35A642019D}|MethodCall2\\MethodCall2.csproj|solutionrelative:methodcall2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\MethodCall2\\MethodCall2\\Program.cs",
+              "RelativeDocumentMoniker": "MethodCall2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\MethodCall2\\MethodCall2\\Program.cs",
+              "RelativeToolTip": "MethodCall2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:52:30.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
