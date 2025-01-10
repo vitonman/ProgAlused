@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\bin\Debug\net8.0\lastSwitch.exe
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\bin\Debug\net8.0\lastSwitch.deps.json
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\bin\Debug\net8.0\lastSwitch.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\bin\Debug\net8.0\lastSwitch.dll
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\bin\Debug\net8.0\lastSwitch.pdb
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.dll
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\refint\lastSwitch.dll
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.pdb
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\lastSwitch.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\lastSwitch\lastSwitch\obj\Debug\net8.0\ref\lastSwitch.dll
