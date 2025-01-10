@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\bin\Debug\net8.0\SwitchLeppeks.exe
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\bin\Debug\net8.0\SwitchLeppeks.deps.json
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\bin\Debug\net8.0\SwitchLeppeks.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\bin\Debug\net8.0\SwitchLeppeks.dll
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\bin\Debug\net8.0\SwitchLeppeks.pdb
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.dll
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\refint\SwitchLeppeks.dll
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.pdb
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\SwitchLeppeks.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\SwitchLeppeks\SwitchLeppeks\obj\Debug\net8.0\ref\SwitchLeppeks.dll
