@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Repos\\ProgAlused\\CoffeePrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86ABEB8F-4403-45BF-8B79-46728F392E07}|CoffeePrice\\CoffeePrice.csproj|c:\\users\\dell\\repos\\progalused\\coffeeprice\\coffeeprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ABEB8F-4403-45BF-8B79-46728F392E07}|CoffeePrice\\CoffeePrice.csproj|solutionrelative:coffeeprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\CoffeePrice\\CoffeePrice\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeePrice\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\CoffeePrice\\CoffeePrice\\Program.cs",
+              "RelativeToolTip": "CoffeePrice\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:35:50.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\bin\Debug\net8.0\CoffeePrice.exe
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\bin\Debug\net8.0\CoffeePrice.deps.json
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\bin\Debug\net8.0\CoffeePrice.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\bin\Debug\net8.0\CoffeePrice.dll
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\bin\Debug\net8.0\CoffeePrice.pdb
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.dll
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\refint\CoffeePrice.dll
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.pdb
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\CoffeePrice.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\CoffeePrice\CoffeePrice\obj\Debug\net8.0\ref\CoffeePrice.dll

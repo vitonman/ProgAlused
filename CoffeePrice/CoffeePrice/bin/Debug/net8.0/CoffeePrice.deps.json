@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoffeePrice/1.0.0": {
+        "runtime": {
+          "CoffeePrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeePrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
