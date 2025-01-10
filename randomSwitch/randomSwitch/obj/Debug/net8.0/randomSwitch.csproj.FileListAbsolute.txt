@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\bin\Debug\net8.0\randomSwitch.exe
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\bin\Debug\net8.0\randomSwitch.deps.json
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\bin\Debug\net8.0\randomSwitch.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\bin\Debug\net8.0\randomSwitch.dll
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\bin\Debug\net8.0\randomSwitch.pdb
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.dll
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\refint\randomSwitch.dll
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.pdb
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\randomSwitch.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\randomSwitch\randomSwitch\obj\Debug\net8.0\ref\randomSwitch.dll

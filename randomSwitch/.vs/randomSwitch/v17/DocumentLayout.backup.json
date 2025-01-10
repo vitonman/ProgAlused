@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Repos\\ProgAlused\\randomSwitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A391376-54D1-409C-9328-8D9FBDA03543}|randomSwitch\\randomSwitch.csproj|c:\\users\\dell\\repos\\progalused\\randomswitch\\randomswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A391376-54D1-409C-9328-8D9FBDA03543}|randomSwitch\\randomSwitch.csproj|solutionrelative:randomswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\randomSwitch\\randomSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "randomSwitch\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\randomSwitch\\randomSwitch\\Program.cs",
+              "RelativeToolTip": "randomSwitch\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:58:14.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
