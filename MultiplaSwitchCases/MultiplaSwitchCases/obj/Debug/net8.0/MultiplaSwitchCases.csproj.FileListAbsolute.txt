@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\bin\Debug\net8.0\MultiplaSwitchCases.exe
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\bin\Debug\net8.0\MultiplaSwitchCases.deps.json
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\bin\Debug\net8.0\MultiplaSwitchCases.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\bin\Debug\net8.0\MultiplaSwitchCases.dll
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\bin\Debug\net8.0\MultiplaSwitchCases.pdb
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.dll
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\refint\MultiplaSwitchCases.dll
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.pdb
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\MultiplaSwitchCases.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\MultiplaSwitchCases\MultiplaSwitchCases\obj\Debug\net8.0\ref\MultiplaSwitchCases.dll
