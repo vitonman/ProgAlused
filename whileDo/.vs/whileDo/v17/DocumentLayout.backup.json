@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Repos\\ProgAlused\\whileDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A1E519-2296-427E-AC56-838B95D28054}|whileDo\\whileDo.csproj|c:\\users\\dell\\repos\\progalused\\whiledo\\whiledo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A1E519-2296-427E-AC56-838B95D28054}|whileDo\\whileDo.csproj|solutionrelative:whiledo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\whileDo\\whileDo\\Program.cs",
+              "RelativeDocumentMoniker": "whileDo\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\whileDo\\whileDo\\Program.cs*",
+              "RelativeToolTip": "whileDo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:53:25.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\bin\Debug\net8.0\whileDo.exe
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\bin\Debug\net8.0\whileDo.deps.json
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\bin\Debug\net8.0\whileDo.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\bin\Debug\net8.0\whileDo.dll
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\bin\Debug\net8.0\whileDo.pdb
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.dll
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\refint\whileDo.dll
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.pdb
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\whileDo.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\whileDo\whileDo\obj\Debug\net8.0\ref\whileDo.dll
