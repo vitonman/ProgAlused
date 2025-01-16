@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\bin\Debug\net8.0\tryCatch.exe
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\bin\Debug\net8.0\tryCatch.deps.json
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\bin\Debug\net8.0\tryCatch.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\bin\Debug\net8.0\tryCatch.dll
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\bin\Debug\net8.0\tryCatch.pdb
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.dll
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\refint\tryCatch.dll
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.pdb
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\tryCatch.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\tryCatch\tryCatch\obj\Debug\net8.0\ref\tryCatch.dll
