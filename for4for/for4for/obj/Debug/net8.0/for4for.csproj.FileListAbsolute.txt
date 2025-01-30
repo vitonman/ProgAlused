@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\bin\Debug\net8.0\for4for.exe
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\bin\Debug\net8.0\for4for.deps.json
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\bin\Debug\net8.0\for4for.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\bin\Debug\net8.0\for4for.dll
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\bin\Debug\net8.0\for4for.pdb
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.dll
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\refint\for4for.dll
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.pdb
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\for4for.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\for4for\for4for\obj\Debug\net8.0\ref\for4for.dll

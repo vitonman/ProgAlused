@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\bin\Debug\net8.0\ForTriangleNumbers.exe
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\bin\Debug\net8.0\ForTriangleNumbers.deps.json
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\bin\Debug\net8.0\ForTriangleNumbers.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\bin\Debug\net8.0\ForTriangleNumbers.dll
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\bin\Debug\net8.0\ForTriangleNumbers.pdb
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.dll
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\refint\ForTriangleNumbers.dll
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.pdb
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ForTriangleNumbers.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\ForTriangleNumbers\ForTriangleNumbers\obj\Debug\net8.0\ref\ForTriangleNumbers.dll
