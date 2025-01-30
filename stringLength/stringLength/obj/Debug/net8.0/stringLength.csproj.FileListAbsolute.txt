@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\bin\Debug\net8.0\stringLength.exe
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\bin\Debug\net8.0\stringLength.deps.json
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\bin\Debug\net8.0\stringLength.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\bin\Debug\net8.0\stringLength.dll
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\bin\Debug\net8.0\stringLength.pdb
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.dll
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\refint\stringLength.dll
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.pdb
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\stringLength.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\stringLength\stringLength\obj\Debug\net8.0\ref\stringLength.dll

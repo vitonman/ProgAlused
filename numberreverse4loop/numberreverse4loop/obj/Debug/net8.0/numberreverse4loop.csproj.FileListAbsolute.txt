@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\bin\Debug\net8.0\numberreverse4loop.exe
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\bin\Debug\net8.0\numberreverse4loop.deps.json
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\bin\Debug\net8.0\numberreverse4loop.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\bin\Debug\net8.0\numberreverse4loop.dll
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\bin\Debug\net8.0\numberreverse4loop.pdb
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.dll
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\refint\numberreverse4loop.dll
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.pdb
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\numberreverse4loop.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\numberreverse4loop\numberreverse4loop\obj\Debug\net8.0\ref\numberreverse4loop.dll

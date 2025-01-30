@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\bin\Debug\net8.0\ruudiiii.exe
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\bin\Debug\net8.0\ruudiiii.deps.json
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\bin\Debug\net8.0\ruudiiii.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\bin\Debug\net8.0\ruudiiii.dll
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\bin\Debug\net8.0\ruudiiii.pdb
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.dll
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\refint\ruudiiii.dll
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.pdb
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ruudiiii.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\ruudiiii\ruudiiii\obj\Debug\net8.0\ref\ruudiiii.dll
