@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\bin\Debug\net8.0\maslou.exe
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\bin\Debug\net8.0\maslou.deps.json
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\bin\Debug\net8.0\maslou.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\bin\Debug\net8.0\maslou.dll
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\bin\Debug\net8.0\maslou.pdb
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.dll
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\refint\maslou.dll
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.pdb
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\maslou.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\maslou\maslou\obj\Debug\net8.0\ref\maslou.dll

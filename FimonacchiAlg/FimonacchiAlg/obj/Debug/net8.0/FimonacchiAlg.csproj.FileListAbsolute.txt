@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\bin\Debug\net8.0\FimonacchiAlg.exe
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\bin\Debug\net8.0\FimonacchiAlg.deps.json
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\bin\Debug\net8.0\FimonacchiAlg.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\bin\Debug\net8.0\FimonacchiAlg.dll
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\bin\Debug\net8.0\FimonacchiAlg.pdb
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.dll
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\refint\FimonacchiAlg.dll
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.pdb
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\FimonacchiAlg.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\FimonacchiAlg\FimonacchiAlg\obj\Debug\net8.0\ref\FimonacchiAlg.dll

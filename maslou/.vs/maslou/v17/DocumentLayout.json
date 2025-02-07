@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Repos\\ProgAlused\\maslou\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4625D46-4790-41F3-A433-8B35589B0A12}|maslou\\maslou.csproj|c:\\users\\dell\\repos\\progalused\\maslou\\maslou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4625D46-4790-41F3-A433-8B35589B0A12}|maslou\\maslou.csproj|solutionrelative:maslou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\maslou\\maslou\\Program.cs",
+              "RelativeDocumentMoniker": "maslou\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\maslou\\maslou\\Program.cs",
+              "RelativeToolTip": "maslou\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:34:08.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
