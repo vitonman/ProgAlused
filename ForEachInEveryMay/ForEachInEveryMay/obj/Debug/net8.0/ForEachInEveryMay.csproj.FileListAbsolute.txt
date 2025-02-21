@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\bin\Debug\net8.0\ForEachInEveryMay.exe
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\bin\Debug\net8.0\ForEachInEveryMay.deps.json
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\bin\Debug\net8.0\ForEachInEveryMay.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\bin\Debug\net8.0\ForEachInEveryMay.dll
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\bin\Debug\net8.0\ForEachInEveryMay.pdb
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.dll
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\refint\ForEachInEveryMay.dll
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.pdb
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ForEachInEveryMay.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\ForEachInEveryMay\ForEachInEveryMay\obj\Debug\net8.0\ref\ForEachInEveryMay.dll
