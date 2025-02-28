@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\bin\Debug\net8.0\ListLink.exe
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\bin\Debug\net8.0\ListLink.deps.json
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\bin\Debug\net8.0\ListLink.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\bin\Debug\net8.0\ListLink.dll
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\bin\Debug\net8.0\ListLink.pdb
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.dll
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\refint\ListLink.dll
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.pdb
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ListLink.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\ListLink\ListLink\obj\Debug\net8.0\ref\ListLink.dll

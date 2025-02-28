@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\bin\Debug\net8.0\StructProject.exe
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\bin\Debug\net8.0\StructProject.deps.json
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\bin\Debug\net8.0\StructProject.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\bin\Debug\net8.0\StructProject.dll
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\bin\Debug\net8.0\StructProject.pdb
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.dll
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\refint\StructProject.dll
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.pdb
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\StructProject.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\StructProject\StructProject\obj\Debug\net8.0\ref\StructProject.dll

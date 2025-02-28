@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Repos\\ProgAlused\\ListLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D512F7D5-4213-49E0-BD4B-48ABA9529E77}|ListLink\\ListLink.csproj|c:\\users\\dell\\repos\\progalused\\listlink\\listlink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D512F7D5-4213-49E0-BD4B-48ABA9529E77}|ListLink\\ListLink.csproj|solutionrelative:listlink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D512F7D5-4213-49E0-BD4B-48ABA9529E77}|ListLink\\ListLink.csproj|c:\\users\\dell\\repos\\progalused\\listlink\\listlink\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D512F7D5-4213-49E0-BD4B-48ABA9529E77}|ListLink\\ListLink.csproj|solutionrelative:listlink\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\ListLink\\ListLink\\Person.cs",
+              "RelativeDocumentMoniker": "ListLink\\Person.cs",
+              "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\ListLink\\ListLink\\Person.cs",
+              "RelativeToolTip": "ListLink\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:21:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\ListLink\\ListLink\\Program.cs",
+              "RelativeDocumentMoniker": "ListLink\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\ListLink\\ListLink\\Program.cs",
+              "RelativeToolTip": "ListLink\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:19:29.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
