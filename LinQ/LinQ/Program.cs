@@ -10,6 +10,15 @@
             Console.WriteLine("1. Sum LINQ");
             Console.WriteLine("2. Max Linq");
             Console.WriteLine("3. Agregat");
+            Console.WriteLine("4. Sum LINQ");
+            Console.WriteLine("5. Max Linq");
+            Console.WriteLine("6. Agregat"); Console.WriteLine("1. Sum LINQ");
+            Console.WriteLine("7. Max Linq");
+            Console.WriteLine("8. Agregat");
+            Console.WriteLine("9. Agregat");
+
+
+
 
             string choice = Console.ReadLine();
 

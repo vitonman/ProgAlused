@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll

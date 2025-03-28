@@ -1,0 +1,15 @@
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\bin\Debug\net8.0\Mapping.exe
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\bin\Debug\net8.0\Mapping.deps.json
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\bin\Debug\net8.0\Mapping.runtimeconfig.json
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\bin\Debug\net8.0\Mapping.dll
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\bin\Debug\net8.0\Mapping.pdb
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.AssemblyInfoInputs.cache
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.AssemblyInfo.cs
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.sourcelink.json
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.dll
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\refint\Mapping.dll
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.pdb
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\Mapping.genruntimeconfig.cache
+C:\Users\Dell\Repos\ProgAlused\Mapping\Mapping\obj\Debug\net8.0\ref\Mapping.dll

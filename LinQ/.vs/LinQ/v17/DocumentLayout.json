@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E0A58200-1E06-4A91-9567-2FB4871F4D86}|LinQ\\LinQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A58200-1E06-4A91-9567-2FB4871F4D86}|LinQ\\LinQ.csproj|c:\\users\\dell\\repos\\progalused\\linq\\linq\\peoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A58200-1E06-4A91-9567-2FB4871F4D86}|LinQ\\LinQ.csproj|solutionrelative:linq\\peoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0A58200-1E06-4A91-9567-2FB4871F4D86}|LinQ\\LinQ.csproj|c:\\users\\dell\\repos\\progalused\\linq\\linq\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A58200-1E06-4A91-9567-2FB4871F4D86}|LinQ\\LinQ.csproj|solutionrelative:linq\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A58200-1E06-4A91-9567-2FB4871F4D86}|LinQ\\LinQ.csproj|c:\\users\\dell\\repos\\progalused\\linq\\linq\\peoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A58200-1E06-4A91-9567-2FB4871F4D86}|LinQ\\LinQ.csproj|solutionrelative:linq\\peoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +26,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "People.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\LinQ\\LinQ\\People.cs",
               "RelativeDocumentMoniker": "LinQ\\People.cs",
               "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\LinQ\\LinQ\\People.cs",
               "RelativeToolTip": "LinQ\\People.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:40:24.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PeopleList.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Repos\\ProgAlused\\LinQ\\LinQ\\PeopleList.cs",
               "RelativeDocumentMoniker": "LinQ\\PeopleList.cs",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "LinQ\\PeopleList.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:27:45.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:27:45.275Z"
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "LinQ\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\Repos\\ProgAlused\\LinQ\\LinQ\\Program.cs",
               "RelativeToolTip": "LinQ\\Program.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAADwv28AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:20:07.844Z",
               "EditorCaption": ""
